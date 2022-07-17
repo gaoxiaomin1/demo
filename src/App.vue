@@ -1,7 +1,9 @@
 <template>
     <div id="app">
-        dsdassa
         <router-view></router-view>
+        <div>
+            <p>今天天气很好</p>
+        </div>
     </div>
 
 </template>
